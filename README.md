@@ -1,2 +1,3 @@
 # Foody
-Developing Application For Own
+Restaurant Mangement and Food Management System
+
